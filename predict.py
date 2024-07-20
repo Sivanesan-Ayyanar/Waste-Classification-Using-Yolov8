@@ -40,3 +40,5 @@ def classify_image(image_path):
 
 # Example usage
 classify_image(r'C:\Users\vs632\OneDrive\Desktop\SEM 6\recycle-aluminum-metal-crushed-can-waste-background-photo.jpg')
+
+
